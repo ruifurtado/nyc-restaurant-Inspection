@@ -6,5 +6,10 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "commitizen>=4.13.7",
+    "geopy>=2.4.1",
+    "matplotlib>=3.10.8",
     "pandas>=3.0.0",
+    "sqlalchemy-mate==2.0.0.0",
+    "usaddress>=0.5.16",
+    "uszipcode>=1.0.1",
 ]
